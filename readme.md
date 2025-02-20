@@ -21,6 +21,8 @@ Ollama models library: https://ollama.com/library
 
 ## Installation of AI locally
 
+1. Uncomment or add the model you want to install in [install-models.sh](https://github.com/robinmuff/ai-projects/blob/main/install-models.sh)
+2. Run this script to start the container and it will automatically install the models in [install-models.sh](https://github.com/robinmuff/ai-projects/blob/main/install-models.sh)
 ```sh
 sh ./start.sh
 ```
